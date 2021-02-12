@@ -10,7 +10,7 @@ namespace William01.NEGOCIO
     class ClsLogin
     {
         
-
+        //agregue un comentario
         public int acceso(Login log)
         {
             int estado = 0;
